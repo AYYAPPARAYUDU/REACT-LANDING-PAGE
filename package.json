@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "homepage": "https://AYYAPPARAYUDU.github.io/REACT-LANDING-PAGE/",
+    "homepage": "https://ayyapparayudu.github.io/REACT-LANDING-PAGE/",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
